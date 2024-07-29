@@ -145,3 +145,5 @@ touch CodeRoad.svg
 touch freeCodeCamp.svg
 s
 ls --color=auto
+clear
+mkdir images
