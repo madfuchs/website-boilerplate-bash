@@ -130,3 +130,7 @@ clear
 cd .
 touch background.jpg
 touch header.png
+mkdir footer.jpeg
+ls --color=auto
+rmdir footer.jpeg/
+touch footer.jpeg
