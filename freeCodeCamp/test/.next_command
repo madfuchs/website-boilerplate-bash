@@ -90,3 +90,15 @@ cd src
 pwd
 ls --color=auto
 more index.js
+cd
+ls --color=auto
+ls --color=auto
+ls --color=auto -a
+cd /has
+cd ~
+cd ..
+ls --color=auto
+cd ..
+ls --color=auto
+cd workspace/project/freeCodeCamp/node_modules/hs
+cd workspace/project/freeCodeCamp/node_modules/has
