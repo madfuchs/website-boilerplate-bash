@@ -104,3 +104,4 @@ cd workspace/project/freeCodeCamp/node_modules/hs
 cd workspace/project/freeCodeCamp/node_modules/has
 clear
 cd ..
+cd ../..
