@@ -105,3 +105,4 @@ cd workspace/project/freeCodeCamp/node_modules/has
 clear
 cd ..
 cd ../..
+ls --color=auto
